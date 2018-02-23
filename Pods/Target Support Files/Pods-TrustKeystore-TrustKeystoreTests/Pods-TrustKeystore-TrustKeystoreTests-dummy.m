@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_TrustKeystore_TrustKeystoreTests : NSObject
+@end
+@implementation PodsDummy_Pods_TrustKeystore_TrustKeystoreTests
+@end
